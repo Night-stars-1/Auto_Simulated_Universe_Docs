@@ -2,12 +2,13 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-23 21:59:12
+ * @LastEditTime: 2023-05-23 22:47:36
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
 -->
 # 指南
+
 ## 重要提示
 ::: danger 警告
 本软件是一个外部工具旨在自动化崩坏星轨的游戏玩法。它被设计成仅通过现有用户界面与游戏交互,并遵守相关法律法规。该软件包旨在提供简化和用户通过功能与游戏交互,并且它不打算以任何方式破坏游戏平衡或提供任何不公平的优势。该软件包不会以任何方式修改任何游戏文件或游戏代码。
@@ -18,9 +19,10 @@ This software is open source, free of charge and for learning and exchange purpo
 
 
 请注意，根据MiHoYo的 [崩坏:星穹铁道的公平游戏宣言]([https://hsr.hoyoverse.com/en-us/news/111244](https://sr.mihoyo.com/news/111246?nav=news&type=notice)):
-
-    "严禁使用外挂、加速器、脚本或其他破坏游戏公平性的第三方工具。"
-    "一经发现，米哈游（下亦称“我们”）将视违规严重程度及违规次数，采取扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。"
+```md:no-line-numbers
+严禁使用外挂、加速器、脚本或其他破坏游戏公平性的第三方工具。
+一经发现，米哈游（下亦称“我们”）将视违规严重程度及违规次数，采取扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。
+```
 :::
 
 ## Python的安装
