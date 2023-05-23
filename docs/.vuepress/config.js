@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:50
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-23 22:40:45
+ * @LastEditTime: 2023-05-23 23:16:20
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -11,7 +11,6 @@ import { defaultTheme } from 'vuepress'
 export default {
     title: '崩坏：星穹铁道小助手文档',
     description: '崩坏：星穹铁道小助手文档',
-    base:'/', // 设置为github仓库地址，用来部署到github pages
     locales: {
         '/': {
           lang: 'zh-CN'
