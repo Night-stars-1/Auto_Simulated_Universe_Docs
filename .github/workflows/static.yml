@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: 构建文档
 on: 
   push:
     branches:
