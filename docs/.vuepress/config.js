@@ -11,7 +11,7 @@ import { defaultTheme } from 'vuepress'
 export default {
     title: '崩坏：星穹铁道小助手文档',
     description: '崩坏：星穹铁道小助手文档',
-    base:'/Honkai-Star-Rail-Docs/', // 设置为github仓库地址，用来部署到github pages
+    base:'/', // 设置为github仓库地址，用来部署到github pages
     locales: {
         '/': {
           lang: 'zh-CN'
