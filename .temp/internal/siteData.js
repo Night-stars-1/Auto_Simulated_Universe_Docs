@@ -4,9 +4,16 @@
 export const siteData = {
   "title": "Hello VuePress",
   "description": "Just playing around",
-  "base": "https://github.com/Night-stars-1/Honkai-Star-Rail-Docs",
+  "base": "/Honkai-Star-Rail-Docs/",
   "headTags": [],
   "pages": [
+    {
+      "frontmatter": {},
+      "regularPath": "/guide/2.html",
+      "relativePath": "guide/2.md",
+      "key": "v-625adfff",
+      "path": "/guide/2.html"
+    },
     {
       "frontmatter": {},
       "regularPath": "/",
@@ -20,13 +27,6 @@ export const siteData = {
       "relativePath": "guide/1.md",
       "key": "v-0ffc295f",
       "path": "/guide/1.html"
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/guide/2.html",
-      "relativePath": "guide/2.md",
-      "key": "v-625adfff",
-      "path": "/guide/2.html"
     }
   ],
   "themeConfig": {
