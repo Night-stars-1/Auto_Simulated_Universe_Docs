@@ -9,6 +9,18 @@ import GlobalLayout from "H:\\项目\\vuepress-starter\\node_modules\\@vuepress\
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
+    name: "v-035fa638",
+    path: "/guide/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-035fa638").then(next)
+    },
+  },
+  {
+    path: "/guide/index.html",
+    redirect: "/guide/"
+  },
+  {
     name: "v-754767cf",
     path: "/",
     component: GlobalLayout,
@@ -21,20 +33,16 @@ export const routes = [
     redirect: "/"
   },
   {
-    name: "v-0ffc295f",
-    path: "/guide/1.html",
+    name: "v-15fd5918",
+    path: "/config/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-0ffc295f").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-15fd5918").then(next)
     },
   },
   {
-    name: "v-625adfff",
-    path: "/guide/2.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-625adfff").then(next)
-    },
+    path: "/config/index.html",
+    redirect: "/config/"
   },
   {
     path: '*',
