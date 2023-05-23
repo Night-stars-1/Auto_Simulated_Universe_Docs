@@ -1,0 +1,16 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "练习vuepress文档编写",
+  "main": "index.js",
+  "author": "DGT",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  }
+}
