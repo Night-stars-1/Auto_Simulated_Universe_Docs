@@ -14,5 +14,4 @@ jobs:
         TARGET_REPO: Night-stars-1/Honkai-Star-Rail-Docs
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: .
-        CNAME: https://www.xxx.com
+        BUILD_DIR: docs/.vuepress/dist
