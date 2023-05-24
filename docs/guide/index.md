@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-23 22:47:36
+ * @LastEditTime: 2023-05-24 11:26:29
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -30,7 +30,7 @@ This software is open source, free of charge and for learning and exchange purpo
  * 将页面拉至底部，下载`Windows installer (64-bit)`
  * 点击安装包进行安装
  * 勾选`Add Python 3.x to PATH`
- <img :src="$withBase('/py_path.png')" alt="foo">
+ <img src="https://img06.mifile.cn/v1/MI_542ED8B1722DC/126cb397275a9756877965f2b16313e1.png" alt="foo">
 
 ## 启动星穹铁道小助手
  * 下载最新版[星穹铁道小助手](https://github.com/Starry-Wind/SRA/releases/latest)

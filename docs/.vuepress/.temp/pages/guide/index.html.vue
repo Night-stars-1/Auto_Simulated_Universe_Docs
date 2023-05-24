@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-23 22:47:36
+ * @LastEditTime: 2023-05-24 11:26:29
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -23,7 +23,7 @@
 <li>将页面拉至底部，下载<code v-pre>Windows installer (64-bit)</code></li>
 <li>点击安装包进行安装</li>
 <li>勾选<code v-pre>Add Python 3.x to PATH</code>
-<img :src="$withBase('/py_path.png')" alt="foo"></li>
+<img src="https://img06.mifile.cn/v1/MI_542ED8B1722DC/126cb397275a9756877965f2b16313e1.png" alt="foo"></li>
 </ul>
 <h2 id="启动星穹铁道小助手" tabindex="-1"><a class="header-anchor" href="#启动星穹铁道小助手" aria-hidden="true">#</a> 启动星穹铁道小助手</h2>
 <ul>

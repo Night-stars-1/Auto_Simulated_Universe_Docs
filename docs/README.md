@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /love!.png
+heroImage: https://img10.360buyimg.com/ddimg/jfs/t1/116281/37/36485/88617/646d832aF50e968aa/a309c57d17e3b850.jpg
 actions:
   - text: 快速上手
     link: /guide/
