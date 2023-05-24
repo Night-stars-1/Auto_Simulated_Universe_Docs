@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:31
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-24 11:26:29
+ * @LastEditTime: 2023-05-24 11:56:05
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -19,7 +19,7 @@
 </code></pre></div></div>
 <h2 id="python的安装" tabindex="-1"><a class="header-anchor" href="#python的安装" aria-hidden="true">#</a> Python的安装</h2>
 <ul>
-<li>点击<a href="https://www.python.org/downloads/release/python-3100/" target="_blank" rel="noopener noreferrer">绿色部分<ExternalLinkIcon/></a>安装Python3.10</li>
+<li>点击<a href="https://www.python.org/downloads/release/python-3100/" target="_blank" rel="noopener noreferrer">蓝色部分<ExternalLinkIcon/></a>安装Python3.10</li>
 <li>将页面拉至底部，下载<code v-pre>Windows installer (64-bit)</code></li>
 <li>点击安装包进行安装</li>
 <li>勾选<code v-pre>Add Python 3.x to PATH</code>

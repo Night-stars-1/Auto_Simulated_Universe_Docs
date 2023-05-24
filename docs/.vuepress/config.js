@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:50
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-23 23:16:20
+ * @LastEditTime: 2023-05-24 11:56:31
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -19,7 +19,7 @@ export default {
     theme: defaultTheme({
         navbar: [
             { text: "首页", link: "/" },
-            { text: "指南", link: "/guide/" },
+            { text: "指南", link: "/guide" },
             { text: "配置", link: "/config/" },
             { 
                 text: "反馈",
@@ -37,7 +37,10 @@ export default {
             },
             {
                 text: "指南",
-                link: "/guide/",
+                children: [
+                    { text: "指南", link: "/guide/" },
+                    { text: "常见问题", link: "/guide/qa.html" },
+                ]
             },
             {
                 text: "配置",

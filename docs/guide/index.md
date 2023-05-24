@@ -26,7 +26,7 @@ This software is open source, free of charge and for learning and exchange purpo
 :::
 
 ## Python的安装
- * 点击[蓝色部分](https://www.python.org/downloads/release/python-3100/)安装Python3.10
+ * 点击[绿色部分](https://www.python.org/downloads/release/python-3100/)安装Python3.10
  * 将页面拉至底部，下载`Windows installer (64-bit)`
  * 点击安装包进行安装
  * 勾选`Add Python 3.x to PATH`
