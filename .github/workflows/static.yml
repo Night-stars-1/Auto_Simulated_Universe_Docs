@@ -19,4 +19,3 @@ jobs:
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist
         CNAME: sra.stysqy.top
-        
