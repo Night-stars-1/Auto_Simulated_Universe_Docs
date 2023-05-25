@@ -5,7 +5,7 @@ actions:
   - text: 快速上手
     link: /guide/
     type: primary
-  - text: 项目简介
+  - text: 配置详细
     link: /config/
     type: secondary
 features:
