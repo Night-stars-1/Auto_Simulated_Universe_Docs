@@ -26,14 +26,14 @@ This software is open source, free of charge and for learning and exchange purpo
 :::
 
 ## Python的安装
- * 点击[绿色部分](https://www.python.org/downloads/release/python-3100/)安装Python3.10
+ * 点击[绿色部分](https://www.python.org/downloads/release/python-3113/)安装Python3.11
  * 将页面拉至底部，下载`Windows installer (64-bit)`
  * 点击安装包进行安装
  * 勾选`Add Python 3.x to PATH`
  <img src="https://img06.mifile.cn/v1/MI_542ED8B1722DC/126cb397275a9756877965f2b16313e1.png" alt="foo">
 
 ## 启动星穹铁道小助手
- * 下载最新版[星穹铁道小助手](https://github.com/Starry-Wind/SRA/releases/latest)
+ * 下载最新版[星穹铁道小助手](https://github.com/Starry-Wind/StarRailAssistant/releases/latest)
  * 解压文件，并进入文件夹
  * 复制文件夹路径
  * 右键开始菜单，选择`终端管理员`，输入`cd 刚刚复制的路径`
