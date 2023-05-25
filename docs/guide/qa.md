@@ -23,3 +23,9 @@
 **Q**： ModuleNotFoundError: No module named 'xxxx'
 
 **A**： 在项目主目录运行`pip install -r requirements.txt`
+
+---
+
+**Q**： ERROR: Polygon3-3.0.9-p311-cp311-win amd64.whl is not a supported wheel on this platform
+
+**A**： 请使用python 3.11运行
