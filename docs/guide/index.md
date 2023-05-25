@@ -37,5 +37,5 @@ This software is open source, free of charge and for learning and exchange purpo
  * 解压文件，并进入文件夹
  * 复制文件夹路径
  * 右键开始菜单，选择`终端管理员`，输入`cd 刚刚复制的路径`
- * 输入`pip install requirements.txt`安装依赖
+ * 输入`pip install -r requirements.txt`安装依赖
  * 输入`Python Honkai_Star_Rail.py`运行星穹铁道小助手
