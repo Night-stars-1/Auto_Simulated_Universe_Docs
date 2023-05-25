@@ -28,7 +28,7 @@ export default {
                     { text: "Telegram Group", link: "https://t.me/+yeQEhnuT9O41NDM1" }
                 ]
             },
-            { text: "Github", link: "https://github.com/Starry-Wind/SRA" },
+            { text: "Github", link: "https://github.com/Starry-Wind/StarRailAssistant" },
         ],
         sidebar: [
             {
