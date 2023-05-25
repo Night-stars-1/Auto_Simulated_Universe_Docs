@@ -8,7 +8,7 @@
 | real_width | 数值 | 转化后的宽度 |
 | real_height | 数值 | 转化后的高度 |
 | auto_battle_persistence | 数值 | 是否开启自动战斗 |
-| map_debug | 布尔值 | 是否全部更新 |
+| level | 字符串 | 日志等级 |
 | github_proxy | 字符串 | github代理 |
 | rawgithub_proxy | 字符串 | rawgithub代理 |
 | webhook_url | 字符串 | 未知 |
@@ -16,7 +16,7 @@
 | temp_version | 数值 | 未知 |
 | star_version | 数值 | 未知 |
 | open_map | 字符串 | 打开地图的按键 |
-| script_debug | 布尔值 | 是否更新脚本 |
+| adb | 字符串 | ADB的IP:端口 |
 | presets | 列表 | 队伍预设 |
 | map_version | 数值 | 未知 |
 
@@ -26,7 +26,7 @@
     "real_width": 0,
     "auto_battle_persistence": 0,
     "real_height": 0,
-    "map_debug": false,
+    "level": "INFO",
     "github_proxy": "",
     "rawgithub_proxy": "",
     "webhook_url": "",
@@ -34,7 +34,7 @@
     "temp_version": "0",
     "star_version": "0",
     "open_map": "m",
-    "script_debug": false,
+    "adb": "127.0.0.1:62001",
     "presets": [
         [
             "丹恒",
