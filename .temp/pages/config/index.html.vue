@@ -29,9 +29,9 @@
 <td style="text-align:right">是否开启自动战斗</td>
 </tr>
 <tr>
-<td>map_debug</td>
-<td style="text-align:center">布尔值</td>
-<td style="text-align:right">是否全部更新</td>
+<td>level</td>
+<td style="text-align:center">字符串</td>
+<td style="text-align:right">日志等级</td>
 </tr>
 <tr>
 <td>github_proxy</td>
@@ -69,9 +69,9 @@
 <td style="text-align:right">打开地图的按键</td>
 </tr>
 <tr>
-<td>script_debug</td>
-<td style="text-align:center">布尔值</td>
-<td style="text-align:right">是否更新脚本</td>
+<td>adb</td>
+<td style="text-align:center">字符串</td>
+<td style="text-align:right">ADB的IP:端口</td>
 </tr>
 <tr>
 <td>presets</td>
@@ -90,7 +90,7 @@
     <span class="token property">"real_width"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
     <span class="token property">"auto_battle_persistence"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
     <span class="token property">"real_height"</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span>
-    <span class="token property">"map_debug"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"level"</span><span class="token operator">:</span> <span class="token string">"INFO"</span><span class="token punctuation">,</span>
     <span class="token property">"github_proxy"</span><span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span>
     <span class="token property">"rawgithub_proxy"</span><span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span>
     <span class="token property">"webhook_url"</span><span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span>
@@ -98,7 +98,7 @@
     <span class="token property">"temp_version"</span><span class="token operator">:</span> <span class="token string">"0"</span><span class="token punctuation">,</span>
     <span class="token property">"star_version"</span><span class="token operator">:</span> <span class="token string">"0"</span><span class="token punctuation">,</span>
     <span class="token property">"open_map"</span><span class="token operator">:</span> <span class="token string">"m"</span><span class="token punctuation">,</span>
-    <span class="token property">"script_debug"</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+    <span class="token property">"adb"</span><span class="token operator">:</span> <span class="token string">"127.0.0.1:62001"</span><span class="token punctuation">,</span>
     <span class="token property">"presets"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
         <span class="token punctuation">[</span>
             <span class="token string">"丹恒"</span><span class="token punctuation">,</span>

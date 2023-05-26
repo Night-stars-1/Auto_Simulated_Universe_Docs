@@ -19,7 +19,7 @@
 </code></pre></div></div>
 <h2 id="python的安装" tabindex="-1"><a class="header-anchor" href="#python的安装" aria-hidden="true">#</a> Python的安装</h2>
 <ul>
-<li>点击<a href="https://www.python.org/downloads/release/python-3100/" target="_blank" rel="noopener noreferrer">绿色部分<ExternalLinkIcon/></a>安装Python3.10</li>
+<li>点击<a href="https://www.python.org/downloads/release/python-3113/" target="_blank" rel="noopener noreferrer">绿色部分<ExternalLinkIcon/></a>安装Python3.11</li>
 <li>将页面拉至底部，下载<code v-pre>Windows installer (64-bit)</code></li>
 <li>点击安装包进行安装</li>
 <li>勾选<code v-pre>Add Python 3.x to PATH</code>
@@ -27,10 +27,11 @@
 </ul>
 <h2 id="启动星穹铁道小助手" tabindex="-1"><a class="header-anchor" href="#启动星穹铁道小助手" aria-hidden="true">#</a> 启动星穹铁道小助手</h2>
 <ul>
-<li>下载最新版<a href="https://github.com/Starry-Wind/SRA/releases/latest" target="_blank" rel="noopener noreferrer">星穹铁道小助手<ExternalLinkIcon/></a></li>
+<li>下载最新版<a href="https://github.com/Starry-Wind/StarRailAssistant/releases/latest" target="_blank" rel="noopener noreferrer">星穹铁道小助手<ExternalLinkIcon/></a></li>
 <li>解压文件，并进入文件夹</li>
 <li>复制文件夹路径</li>
 <li>右键开始菜单，选择<code v-pre>终端管理员</code>，输入<code v-pre>cd 刚刚复制的路径</code></li>
+<li>输入<code v-pre>pip install -r requirements.txt</code>安装依赖</li>
 <li>输入<code v-pre>Python Honkai_Star_Rail.py</code>运行星穹铁道小助手</li>
 </ul>
 </div></template>
