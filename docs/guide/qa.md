@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-24 11:46:14
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-24 12:11:51
+ * @LastEditTime: 2023-05-26 13:01:30
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -29,3 +29,9 @@
 **Q**： ERROR: Polygon3-3.0.9-p311-cp311-win amd64.whl is not a supported wheel on this platform
 
 **A**： 请使用python 3.11运行
+
+---
+
+**Q**： typeError: cannot unpack non-iterable NoneType object
+
+**A**： 更新地图文件
