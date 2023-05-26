@@ -5,7 +5,6 @@
   "author": "Night-stars-1 <nujj1042633805@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-beta.62",
     "vuepress": "^2.0.0-beta.62"
   },
   "scripts": {
