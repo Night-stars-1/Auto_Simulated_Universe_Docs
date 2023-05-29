@@ -83,6 +83,11 @@
 <td style="text-align:center">数值</td>
 <td style="text-align:right">未知</td>
 </tr>
+<tr>
+<td>proxies</td>
+<td style="text-align:center"><a href="func#%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86">点击跳转详情</a></td>
+<td style="text-align:right">网络代理</td>
+</tr>
 </tbody>
 </table>
 <h2 id="完整配置参考" tabindex="-1"><a class="header-anchor" href="#完整配置参考" aria-hidden="true">#</a> 完整配置参考</h2>
@@ -107,8 +112,13 @@
             <span class="token string">"娜塔莎"</span>
         <span class="token punctuation">]</span>
     <span class="token punctuation">]</span><span class="token punctuation">,</span>
-    <span class="token property">"map_version"</span><span class="token operator">:</span> <span class="token string">"0"</span>
+    <span class="token property">"map_version"</span><span class="token operator">:</span> <span class="token string">"0"</span><span class="token punctuation">,</span>
+    <span class="token property">"proxies"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token property">"http://"</span><span class="token operator">:</span> <span class="token string">"http://your_http_proxy"</span><span class="token punctuation">,</span>
+        <span class="token property">"https://"</span><span class="token operator">:</span> <span class="token string">"http://your_https_proxy"</span><span class="token punctuation">,</span>
+        <span class="token property">"socks5://"</span><span class="token operator">:</span> <span class="token string">"socks5://your_socks5_proxy"</span><span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
 
 
