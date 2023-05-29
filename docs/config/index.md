@@ -19,7 +19,7 @@
 | adb | 字符串 | ADB的IP:端口 |
 | presets | 列表 | 队伍预设 |
 | map_version | 数值 | 未知 |
-| proxies | [点击跳转详情](func#网络代理) | 网络代理 |
+| proxies | 字符串 | 网络代理 |
 
 ## 完整配置参考
 ```json
@@ -45,10 +45,6 @@
         ]
     ],
     "map_version": "0",
-    "proxies": {
-        "http://": "http://your_http_proxy",
-        "https://": "http://your_https_proxy",
-        "socks5://": "socks5://your_socks5_proxy",
-    }
+    "proxies": "socks5://your_socks5_proxy"
 }
 ```
