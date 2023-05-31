@@ -1,8 +1,6 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"H:/项目/vuepress-starter/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /config/func.html
-  "v-526db701": () => import(/* webpackChunkName: "v-526db701" */"H:/项目/vuepress-starter/.temp/pages/config/func.html.js").then(({ data }) => data),
   // path: /config/
   "v-ba934fd8": () => import(/* webpackChunkName: "v-ba934fd8" */"H:/项目/vuepress-starter/.temp/pages/config/index.html.js").then(({ data }) => data),
   // path: /guide/

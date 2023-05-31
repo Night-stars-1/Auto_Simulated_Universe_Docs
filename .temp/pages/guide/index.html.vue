@@ -31,9 +31,17 @@
 <li>解压文件，并进入文件夹</li>
 <li>复制文件夹路径</li>
 <li>右键开始菜单，选择<code v-pre>终端管理员</code>，输入<code v-pre>cd 刚刚复制的路径</code></li>
+<li>输入<code v-pre>pip config set global.index-url https://pypi.douban.com/simple</code>设置国内pip源</li>
 <li>输入<code v-pre>pip install -r requirements.txt</code>安装依赖</li>
 <li>输入<code v-pre>Python Honkai_Star_Rail.py</code>运行星穹铁道小助手</li>
 </ul>
+<h2 id="快速启动" tabindex="-1"><a class="header-anchor" href="#快速启动" aria-hidden="true">#</a> 快速启动</h2>
+<ul>
+<li>下载地址<a href="https://github.com/Starry-Wind/StarRailAssistant/releases/tag/%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8" target="_blank" rel="noopener noreferrer">快速启动<ExternalLinkIcon/></a></li>
+<li><code v-pre>env.bat</code>为依赖安装脚本</li>
+<li><code v-pre>start.exe</code>为快速启动脚本</li>
+</ul>
+<p><strong>ps: 所有文件请放在项目根目录执行</strong></p>
 </div></template>
 
 
