@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-24 11:46:14
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-31 22:18:37
+ * @LastEditTime: 2023-06-01 14:27:29
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -27,7 +27,10 @@
 <p><strong>A</strong>： 输入<code v-pre>pip config set global.index-url https://pypi.douban.com/simple</code>设置国内pip源</p>
 <hr>
 <p><strong>Q</strong>： ERROR: Could not find a version that satisfies the requirement onnxruntime/cnocr</p>
-<p><strong>A</strong>： 下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>里的<code v-pre>依赖更新.bat</code></p>
+<p><strong>A</strong>： 下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>里的<code v-pre>依赖一键傻瓜式安装.bat</code></p>
+<hr>
+<p><strong>Q</strong>： 你无法运行<strong>星穹铁道小助手</strong></p>
+<p><strong>A</strong>： 下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>里的<code v-pre>依赖一键傻瓜式安装.bat</code></p>
 <hr>
 <p><strong>Q</strong>： 口令:5668</p>
 <p><strong>A</strong>： 口令:5668</p>

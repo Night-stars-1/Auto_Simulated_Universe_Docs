@@ -1,13 +1,14 @@
 /*
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 15:45:50
- * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-05-31 22:21:08
+ * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @LastEditTime: 2023-06-03 01:07:30
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
  */
 import { defaultTheme } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 export default {
     title: '崩坏：星穹铁道小助手文档',
     description: '崩坏：星穹铁道小助手文档',
@@ -16,6 +17,13 @@ export default {
           lang: 'zh-CN'
         }
     },
+    plugins: [
+        docsearchPlugin({
+            apiKey: "284273618b0777c30fdbae3c1c0907a5",
+            indexName: "sra-stysqy",
+            appId: "PZLYTVJQGX",
+        }),
+    ],
     theme: defaultTheme({
         navbar: [
             { text: "首页", link: "/" },
