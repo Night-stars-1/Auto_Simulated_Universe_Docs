@@ -1,8 +1,8 @@
 /*
  * @Author: Night-stars-1 nujj1042633805@gmail.com
- * @Date: 2023-05-23 15:45:50
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2023-06-03 01:07:30
+ * @Date: 2023-05-23 22:27:40
+ * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
+ * @LastEditTime: 2023-06-04 15:59:00
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
