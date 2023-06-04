@@ -29,6 +29,7 @@ export default {
             { text: "首页", link: "/" },
             { text: "指南", link: "/guide" },
             { text: "常见问题", link: "/guide/qa.html" },
+            { text: "后台运行", link: "/guide/bs.html" },
             { text: "配置", link: "/config/" },
             {
                 text: "反馈",
@@ -49,6 +50,7 @@ export default {
                 children: [
                     { text: "指南", link: "/guide/" },
                     { text: "常见问题", link: "/guide/qa.html" },
+                    { text: "后台运行", link: "/guide/bs.html" },
                 ]
             },
             {
