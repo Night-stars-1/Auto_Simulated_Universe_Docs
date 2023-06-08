@@ -27,9 +27,10 @@ export default {
     theme: defaultTheme({
         navbar: [
             { text: "首页", link: "/" },
-            { text: "指南", link: "/guide" },
+            { text: "指南", link: "/guide/" },
             { text: "常见问题", link: "/guide/qa.html" },
             { text: "后台运行", link: "/guide/bs.html" },
+            { text: "进阶", link: "/appendices/" },
             { text: "配置", link: "/config/" },
             {
                 text: "反馈",
@@ -56,6 +57,10 @@ export default {
             {
                 text: "配置",
                 link: "/config/"
+            },
+            {
+                text: "进阶",
+                link: "/appendices/"
             }
         ]
     })

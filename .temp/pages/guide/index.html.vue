@@ -31,7 +31,7 @@
 <li>解压文件，并进入文件夹</li>
 <li>复制文件夹路径</li>
 <li>右键开始菜单，选择<code v-pre>终端管理员</code>，输入<code v-pre>cd 刚刚复制的路径</code></li>
-<li>输入<code v-pre>pip config set global.index-url https://pypi.douban.com/simple</code>设置国内pip源</li>
+<li>输入<code v-pre>pip config set global.index-url https://mirrors.aliyun.com/pypi/simple</code>设置国内pip源</li>
 <li>输入<code v-pre>pip install -r requirements.txt</code>安装依赖</li>
 <li>输入<code v-pre>Python Honkai_Star_Rail.py</code>运行星穹铁道小助手</li>
 </ul>

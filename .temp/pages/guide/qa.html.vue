@@ -24,7 +24,7 @@
 <p><strong>A</strong>： 更新地图文件</p>
 <hr>
 <p><strong>Q</strong>： 依赖选择速度非常慢</p>
-<p><strong>A</strong>： 输入<code v-pre>pip config set global.index-url https://pypi.douban.com/simple</code>设置国内pip源</p>
+<p><strong>A</strong>： 输入<code v-pre>pip config set global.index-url https://mirrors.aliyun.com/pypi/simple</code>设置国内pip源</p>
 <hr>
 <p><strong>Q</strong>： ERROR: Could not find a version that satisfies the requirement onnxruntime/cnocr</p>
 <p><strong>A</strong>： 下载<a href="https://qm.qq.com/cgi-bin/qm/qr?k=xdCO46fHlVcY7D2L7elXzqcxL3nyTGnW&amp;jump_from=webapi&amp;authKey=uWZooQ2szv+nG/re7luCKn8LW1KibSb0vvi0FycA45Mglm5AGM1GP2iJ+SiWmDwg" target="_blank" rel="noopener noreferrer">QQ群<ExternalLinkIcon/></a>里的<code v-pre>依赖一键傻瓜式安装.bat</code></p>

@@ -40,7 +40,7 @@
 
 **Q**： 依赖选择速度非常慢
 
-**A**： 输入`pip config set global.index-url https://pypi.douban.com/simple`设置国内pip源
+**A**： 输入`pip config set global.index-url https://mirrors.aliyun.com/pypi/simple`设置国内pip源
 
 ---
 
