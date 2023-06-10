@@ -7,7 +7,10 @@
 
 ----------------------------------------------------------------------------------------------
 
-## 免责声明
+## 声明
+
+### 免责声明
+
 本软件是一个外部工具旨在自动化崩坏星轨的游戏玩法。它被设计成仅通过现有用户界面与游戏交互,并遵守相关法律法规。该软件包旨在提供简化和用户通过功能与游戏交互,并且它不打算以任何方式破坏游戏平衡或提供任何不公平的优势。该软件包不会以任何方式修改任何游戏文件或游戏代码。
 
 This software is open source, free of charge and for learning and exchange purposes only. The developer team has the final right to interpret this project. All problems arising from the use of this software are not related to this project and the developer team. If you encounter a merchant using this software to practice on your behalf and charging for it, it may be the cost of equipment and time, etc. The problems and consequences arising from this software have nothing to do with it.
@@ -20,6 +23,12 @@ This software is open source, free of charge and for learning and exchange purpo
 "严禁使用外挂、加速器、脚本或其他破坏游戏公平性的第三方工具。"
 "一经发现，米哈游（下亦称“我们”）将视违规严重程度及违规次数，采取扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。"
 ```
+
+### 项目声明
+
+本项目为公益开源项目，您使用本项目视为您的自发性行为，您理解并认可使用项目对造成的账号安全风险与开发者无关。
+
+倒卖软件的行为只会让项目更加难用，如果您是受害者，请退款并差评。
 
 ## 用法
 
@@ -44,7 +53,9 @@ python align_angle.py
 
 如果改变了鼠标dpi或游戏分辨率/屏幕分辨率/窗口缩放倍率，需要重新校准！
 
-### 运行自动化
+## 命令行使用方法
+
+#### 运行自动化
 
 人物靠近模拟宇宙（出现f键交互条）
 
@@ -63,7 +74,7 @@ info.txt中第一行保存了模拟宇宙开局选的角色，建议改成自己
 
 注意！！！！！ 开始运行/开始校准之后就不要移动游戏窗口了！要移动请先停止自动化！
 
-### 更新文件
+#### 更新文件
 
 双击update.bat
 
@@ -78,7 +89,7 @@ info.txt中第一行保存了模拟宇宙开局选的角色，建议改成自己
 
 在设置中选择自己想要的难度和命途，配队请用三个空格隔开四个数字，1表示第一个角色（编号规则示意见下图）。最好在一号位选远程角色（艾丝妲、三月七）方便开怪。
 
-![配队编号](https://s1.ax1x.com/2023/06/11/pCVUeHJ.jpg)](https://imgse.com/i/pCVUeHJ)
+[![配队编号](https://s1.ax1x.com/2023/06/11/pCVUeHJ.jpg)](https://imgse.com/i/pCVUeHJ)
 
 比如说这张图中，你想选择娜塔莎，景元，希儿，彦卿，那么请在配队中输入：6 4 3 2
 
@@ -108,7 +119,7 @@ F8/‘停止’按钮停止运行。
 
 推荐最低画质配置：
 
-![画质](https://s1.ax1x.com/2023/06/11/pCVUuNR.jpg)](https://imgse.com/i/pCVUuNR)
+[![画质](https://s1.ax1x.com/2023/06/11/pCVUuNR.jpg)](https://imgse.com/i/pCVUuNR)
 
 ### 通知插件使用方法（notif.exe）
 
@@ -146,6 +157,8 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 录制结束后可以暂离并重新运行自动化测试地图，如果通过测试，你就成功录制到了新图！
 
+录图演示可以观看视频 https://www.bilibili.com/video/BV1Ls4y1z7ob/
+
 ----------------------------------------------------------------------------------------------
 
 ## 群号&赞助
@@ -154,4 +167,4 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 如果喜欢本项目，可以打赏送作者一杯咖啡喵！
 
-![打赏](https://s1.ax1x.com/2023/06/11/pCVUnE9.jpg)](https://imgse.com/i/pCVUnE9)
+[![打赏](https://s1.ax1x.com/2023/06/11/pCVUnE9.jpg)](https://imgse.com/i/pCVUnE9)
