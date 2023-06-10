@@ -125,7 +125,7 @@ F8/‘停止’按钮停止运行。
 
 [![画质](https://s1.ax1x.com/2023/06/11/pCVUuNR.jpg)](https://imgse.com/i/pCVUuNR)
 
-### 通知插件使用方法（notif.exe）
+### 通知插件
 
 如果你没有用本地多用户，那么直接双击notif.exe即可开启windows通知，每刷完一次都会通知哦
 
