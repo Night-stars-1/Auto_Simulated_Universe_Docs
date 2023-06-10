@@ -20,6 +20,12 @@
 
 ---
 
+**Q**： 游戏有没有分辨率要求
+
+**A**： 有的，PC端要求`1920*1080`，模拟器要求`1080*720`
+
+---
+
 **Q**： ModuleNotFoundError: No module named 'xxxx'
 
 **A**： 在项目主目录运行`pip install -r requirements.txt`
