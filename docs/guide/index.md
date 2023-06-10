@@ -38,7 +38,7 @@ This software is open source, free of charge and for learning and exchange purpo
 
 默认世界：比如说如果你当前模拟宇宙默认世界4，但是想自动化世界6，那么请先进入一次世界6来改变默认世界
 
-如果没怎么接触过python，建议直接在release中下载gui版本，并直接阅读GUI使用方法
+如果想方便使用本项目，建议直接在release中下载gui版本，并直接阅读GUI使用方法
 
 ### 第一次运行
 
@@ -165,6 +165,11 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 欢迎加入，欢迎反馈bug，QQ群：831830526
 
-如果喜欢本项目，可以打赏送作者一杯咖啡喵！
+如果喜欢本项目，可以给项目点点star！
+
+https://github.com/CHNZYX/Auto_Simulated_Universe
+
+如果很喜欢本项目，还可以打赏送作者一杯咖啡喵！
 
 [![打赏](https://s1.ax1x.com/2023/06/11/pCVUnE9.jpg)](https://imgse.com/i/pCVUnE9)
+
