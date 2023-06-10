@@ -34,6 +34,8 @@ This software is open source, free of charge and for learning and exchange purpo
 
 ## 用法
 
+### 运行必读
+
 如果你的电脑没有安装python+numpy，或者未正确将python添加进环境变量，那么你将无法使用本项目。请理解本项目设置的这道门槛，如果你被门槛挡住了，请自行百度解决。
 
 只支持1920\*1080(窗口化或全屏幕)，开启祝福详细描述，文本语言选择简体中文。（屏幕分辨率等于1920\*1080的开全屏幕，大于的开窗口化）
