@@ -154,5 +154,3 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 ----------------------------------------------------------------------------------------------
 
 如果喜欢本项目，可以打赏送作者一杯咖啡喵！
-
-![打赏](https://github.com/CHNZYX/Auto_Simulated_Universe/blob/main/imgs/money.jpg)
