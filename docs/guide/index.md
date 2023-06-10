@@ -173,7 +173,6 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 https://github.com/CHNZYX/Auto_Simulated_Universe
 
-如果很喜欢本项目，还可以打赏送作者一杯咖啡喵！
+如果很喜欢本项目，还可以去项目README下方打赏送作者一杯咖啡喵！
 
-[![打赏](https://s1.ax1x.com/2023/06/11/pCVUnE9.jpg)](https://imgse.com/i/pCVUnE9)
 
