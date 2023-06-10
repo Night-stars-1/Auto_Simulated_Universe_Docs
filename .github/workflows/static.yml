@@ -14,8 +14,8 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: Night-stars-1/Honkai-Star-Rail-Docs
+        TARGET_REPO: Night-stars-1/Auto_Simulated_Universe_Docs
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist
-        CNAME: sra.stysqy.top
+        CNAME: asu.stysqy.top
