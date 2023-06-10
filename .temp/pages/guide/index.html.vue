@@ -79,7 +79,6 @@
 <p>欢迎加入，欢迎反馈bug，QQ群：831830526</p>
 <hr>
 <p>如果喜欢本项目，可以打赏送作者一杯咖啡喵！</p>
-<p><img src="https://github.com/CHNZYX/Auto_Simulated_Universe/blob/main/imgs/money.jpg" alt="打赏"></p>
 </div></template>
 
 

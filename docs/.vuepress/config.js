@@ -2,7 +2,7 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:40
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-11 00:54:05
+ * @LastEditTime: 2023-06-11 02:00:10
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
@@ -27,6 +27,10 @@ export default {
         **/
     ],
     theme: defaultTheme({
+        docsRepo: 'https://github.com/Night-stars-1/Auto_Simulated_Universe_Docs',
+        docsBranch: 'docs',
+        docsDir: 'docs',
+        editLinkPattern: ':repo/edit/:branch/:path',
         navbar: [
             { text: "首页", link: "/" },
             { text: "指南", link: "/guide/" },
