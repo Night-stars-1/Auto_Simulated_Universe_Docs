@@ -78,7 +78,7 @@ info.txt中第一行保存了模拟宇宙开局选的角色，建议改成自己
 
 在设置中选择自己想要的难度和命途，配队请用三个空格隔开四个数字，1表示第一个角色（编号规则示意见下图）。最好在一号位选远程角色（艾丝妲、三月七）方便开怪。
 
-![配队编号](https://github.com/CHNZYX/Auto_Simulated_Universe/blob/main/imgs/team.jpg)
+![配队编号](https://s1.ax1x.com/2023/06/11/pCVUeHJ.jpg)](https://imgse.com/i/pCVUeHJ)
 
 比如说这张图中，你想选择娜塔莎，景元，希儿，彦卿，那么请在配队中输入：6 4 3 2
 
@@ -108,7 +108,7 @@ F8/‘停止’按钮停止运行。
 
 推荐最低画质配置：
 
-![画质](https://github.com/CHNZYX/Auto_Simulated_Universe/blob/main/imgs/image_quality.jpg)
+![画质](https://s1.ax1x.com/2023/06/11/pCVUuNR.jpg)](https://imgse.com/i/pCVUuNR)
 
 ### 通知插件使用方法（notif.exe）
 
@@ -154,4 +154,4 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 如果喜欢本项目，可以打赏送作者一杯咖啡喵！
 
-![打赏](https://github.com/CHNZYX/Auto_Simulated_Universe/blob/main/imgs/money.jpg)
+![打赏](https://s1.ax1x.com/2023/06/11/pCVUnE9.jpg)](https://imgse.com/i/pCVUnE9)
