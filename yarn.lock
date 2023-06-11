@@ -295,7 +295,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@types/debug@^4.1.7":
+"@types/debug@^4.1.7", "@types/debug@^4.1.8":
   version "4.1.8"
   resolved "https://registry.npmjs.org/@types/debug/-/debug-4.1.8.tgz"
   integrity sha512-/vPO1EPOs306Cvhwv7KfVfYvOJqA/S/AXjaHQiJboCZzcNDb+TIJFN9/2C9DZ//ijSKWioNyUxD792QmDJ+HKQ==
@@ -483,7 +483,7 @@
     "@vue/compiler-ssr" "3.3.4"
     "@vue/shared" "3.3.4"
 
-"@vue/shared@^3.3.1", "@vue/shared@3.3.4":
+"@vue/shared@^3.3.1", "@vue/shared@^3.3.4", "@vue/shared@3.3.4":
   version "3.3.4"
   resolved "https://registry.npmjs.org/@vue/shared/-/shared-3.3.4.tgz"
   integrity sha512-7OjdcV8vQ74eiz1TZLzZP4JwqM5fA94K6yntPS5Z25r9HDuGNzaGdgvwKYq6S+MxwF0TFRwe50fIR/MYnakdkQ==
@@ -530,6 +530,16 @@
     vue "^3.3.1"
     vue-router "^4.2.0"
 
+"@vuepress/client@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/client/-/client-2.0.0-beta.63.tgz"
+  integrity sha512-L/EQt3ZBKtEB6HUUifPSn/rAQM1R2ndKOqGYHzdG90WrUbzpM+ROm+3BxpVinvUuKkRgnXyf8qgaETlvUNw90Q==
+  dependencies:
+    "@vue/devtools-api" "^6.5.0"
+    "@vuepress/shared" "2.0.0-beta.63"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
+
 "@vuepress/core@2.0.0-beta.62":
   version "2.0.0-beta.62"
   resolved "https://registry.npmjs.org/@vuepress/core/-/core-2.0.0-beta.62.tgz"
@@ -540,6 +550,17 @@
     "@vuepress/shared" "2.0.0-beta.62"
     "@vuepress/utils" "2.0.0-beta.62"
     vue "^3.3.1"
+
+"@vuepress/core@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/core/-/core-2.0.0-beta.63.tgz"
+  integrity sha512-9n8/ke7qSJ1M+eeJGIcgPBtSr9aPUO+WJMg1Zg82UfazI7EcshRFHO/CsGGUw1RPm6VtKM5E9iUgl3YJpM9ZvA==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/markdown" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    vue "^3.3.4"
 
 "@vuepress/markdown@2.0.0-beta.62":
   version "2.0.0-beta.62"
@@ -558,6 +579,28 @@
     "@types/markdown-it-emoji" "^2.0.2"
     "@vuepress/shared" "2.0.0-beta.62"
     "@vuepress/utils" "2.0.0-beta.62"
+    markdown-it "^13.0.1"
+    markdown-it-anchor "^8.6.7"
+    markdown-it-emoji "^2.0.2"
+    mdurl "^1.0.1"
+
+"@vuepress/markdown@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/markdown/-/markdown-2.0.0-beta.63.tgz"
+  integrity sha512-XLR/bNgfKmmz3YL57vG0Du8C6KQVJuFPIKQSwI6caWsl02ddbdt8IAO7PhczH6dfuEX3TFdQkx70sEgM6pdhKA==
+  dependencies:
+    "@mdit-vue/plugin-component" "^0.12.0"
+    "@mdit-vue/plugin-frontmatter" "^0.12.0"
+    "@mdit-vue/plugin-headers" "^0.12.0"
+    "@mdit-vue/plugin-sfc" "^0.12.0"
+    "@mdit-vue/plugin-title" "^0.12.0"
+    "@mdit-vue/plugin-toc" "^0.12.0"
+    "@mdit-vue/shared" "^0.12.0"
+    "@mdit-vue/types" "^0.12.0"
+    "@types/markdown-it" "^12.2.3"
+    "@types/markdown-it-emoji" "^2.0.2"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     markdown-it "^13.0.1"
     markdown-it-anchor "^8.6.7"
     markdown-it-emoji "^2.0.2"
@@ -676,6 +719,15 @@
     "@vuepress/core" "2.0.0-beta.62"
     prismjs "^1.29.0"
 
+"@vuepress/plugin-register-components@^2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.63.tgz"
+  integrity sha512-u8PiRwnKa5sCJwEugcccP9053Ub+jv7vox7QU1kPPLXwOAmY1ycbknbHRk/LS9szFD0fYEitGqrf7JJcZwrz+w==
+  dependencies:
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    chokidar "^3.5.3"
+
 "@vuepress/plugin-theme-data@2.0.0-beta.62":
   version "2.0.0-beta.62"
   resolved "https://registry.npmjs.org/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.62.tgz"
@@ -695,6 +747,14 @@
   dependencies:
     "@mdit-vue/types" "^0.12.0"
     "@vue/shared" "^3.3.1"
+
+"@vuepress/shared@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/shared/-/shared-2.0.0-beta.63.tgz"
+  integrity sha512-xJ90x2RAuYenM4Pn7gbhJ9lkmPBWscM0cff+ypEVI47oV0hKpaDpNLkteT4QjBoRIHyqlz5CFUP+2BMOk9zxCA==
+  dependencies:
+    "@mdit-vue/types" "^0.12.0"
+    "@vue/shared" "^3.3.4"
 
 "@vuepress/theme-default@2.0.0-beta.62":
   version "2.0.0-beta.62"
@@ -735,6 +795,23 @@
     globby "^13.1.4"
     hash-sum "^2.0.0"
     ora "^6.3.0"
+    picocolors "^1.0.0"
+    upath "^2.0.1"
+
+"@vuepress/utils@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmjs.org/@vuepress/utils/-/utils-2.0.0-beta.63.tgz"
+  integrity sha512-Ow3zmwiCrmpA/Ezs9PRIroa6HBSGjYGEo9kmC2Prfl4CkRTup/rhvVrrPpi3WkqT/B+fKgPQN8ihs5EYazxRtw==
+  dependencies:
+    "@types/debug" "^4.1.8"
+    "@types/fs-extra" "^11.0.1"
+    "@types/hash-sum" "^1.0.0"
+    "@vuepress/shared" "2.0.0-beta.63"
+    debug "^4.3.4"
+    fs-extra "^11.1.1"
+    globby "^13.1.4"
+    hash-sum "^2.0.0"
+    ora "^6.3.1"
     picocolors "^1.0.0"
     upath "^2.0.1"
 
@@ -1623,7 +1700,7 @@ onetime@^6.0.0:
   dependencies:
     mimic-fn "^4.0.0"
 
-ora@^6.3.0:
+ora@^6.3.0, ora@^6.3.1:
   version "6.3.1"
   resolved "https://registry.npmjs.org/ora/-/ora-6.3.1.tgz"
   integrity sha512-ERAyNnZOfqM+Ao3RAvIXkYh5joP220yf59gVe2X/cI6SiCxIdi4c9HZKZD8R6q/RDXEje1THBju6iExiSsgJaQ==
@@ -1973,14 +2050,14 @@ vue-demi@>=0.14.0:
   resolved "https://registry.npmjs.org/vue-demi/-/vue-demi-0.14.5.tgz"
   integrity sha512-o9NUVpl/YlsGJ7t+xuqJKx8EBGf1quRhCiT6D/J0pfwmk9zUwYkC7yrF4SZCe6fETvSM3UNL2edcbYrSyc4QHA==
 
-vue-router@^4.2.0:
-  version "4.2.1"
-  resolved "https://registry.npmjs.org/vue-router/-/vue-router-4.2.1.tgz"
-  integrity sha512-nW28EeifEp8Abc5AfmAShy5ZKGsGzjcnZ3L1yc2DYUo+MqbBClrRP9yda3dIekM4I50/KnEwo1wkBLf7kHH5Cw==
+vue-router@^4.2.0, vue-router@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.npmjs.org/vue-router/-/vue-router-4.2.2.tgz"
+  integrity sha512-cChBPPmAflgBGmy3tBsjeoe3f3VOSG6naKyY5pjtrqLGbNEXdzCigFUHgBvp9e3ysAtFtEx7OLqcSDh/1Cq2TQ==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
 
-"vue@^3.0.0-0 || ^2.6.0", vue@^3.2.0, vue@^3.2.25, vue@^3.3.1, vue@3.3.4:
+"vue@^3.0.0-0 || ^2.6.0", vue@^3.2.0, vue@^3.2.25, vue@^3.3.1, vue@^3.3.4, vue@3.3.4:
   version "3.3.4"
   resolved "https://registry.npmjs.org/vue/-/vue-3.3.4.tgz"
   integrity sha512-VTyEYn3yvIeY1Py0WaYGZsXnz3y5UnGi62GjVEqvEGPl6nxbOrCXbVOTQWBEJUqAyTUk2uJ5JLVnYJ6ZzGbrSw==

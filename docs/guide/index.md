@@ -163,6 +163,8 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 录图演示可以观看视频 https://www.bilibili.com/video/BV1Ls4y1z7ob/
 
+<BiliVideo bvid="BV1Ls4y1z7ob"></BiliVideo>
+
 ----------------------------------------------------------------------------------------------
 
 ## 群号&赞助

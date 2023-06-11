@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-33853688","path":"/guide/bs.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"后台运行","slug":"后台运行","link":"#后台运行","children":[]}],"git":{"updatedTime":1685865716000,"contributors":[{"name":"Night-stars-1","email":"nujj1042633805@gmail.com","commits":1}]},"filePathRelative":"guide/bs.md"}');export{t as data};

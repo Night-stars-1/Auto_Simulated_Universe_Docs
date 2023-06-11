@@ -2,13 +2,17 @@
  * @Author: Night-stars-1 nujj1042633805@gmail.com
  * @Date: 2023-05-23 22:27:40
  * @LastEditors: Night-stars-1 nujj1042633805@gmail.com
- * @LastEditTime: 2023-06-11 02:00:10
+ * @LastEditTime: 2023-06-11 15:52:54
  * @Description: 
  * 
  * Copyright (c) 2023 by Night-stars-1, All Rights Reserved. 
  */
 import { defaultTheme } from 'vuepress'
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { getDirname, path } from '@vuepress/utils'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+
+const __dirname = getDirname(import.meta.url)
+
 export default {
     title: 'Auto_Simulated_Universe文档',
     description: 'Auto_Simulated_Universe文档',
@@ -18,6 +22,9 @@ export default {
         }
     },
     plugins: [
+        registerComponentsPlugin({
+            componentsDir: path.resolve(__dirname, './components')
+        }),
         /**
         docsearchPlugin({
             apiKey: "284273618b0777c30fdbae3c1c0907a5",
