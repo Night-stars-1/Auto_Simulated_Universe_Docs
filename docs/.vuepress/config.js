@@ -15,7 +15,7 @@ const __dirname = getDirname(import.meta.url)
 
 export default {
     title: 'Auto_Simulated_Universe文档',
-    description: 'Auto_Simulated_Universe文档',
+    description: 'Auto Simulated Universe文档',
     head: [['link', { rel: 'icon', href: 'icon_m.png' }]],
     locales: {
         '/': {
