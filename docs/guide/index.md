@@ -161,9 +161,9 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 
 录制结束后可以暂离并重新运行自动化测试地图，如果通过测试，你就成功录制到了新图！
 
-录图演示可以观看视频 https://www.bilibili.com/video/BV1Ls4y1z7ob/
+录图演示可以观看视频 https://www.bilibili.com/video/BV1EV4y117Zt/
 
-<BiliVideo bvid="BV1Ls4y1z7ob"></BiliVideo>
+<BiliVideo bvid="BV1EV4y117Zt"></BiliVideo>
 
 ----------------------------------------------------------------------------------------------
 
