@@ -8,9 +8,11 @@ actions:
 features:
 - title: 嘤嘤嘤
   details: 嘤嘤，嘤嘤嘤
+- title: 常见问题
+  details: Q&A
+  link: /guide/qa.html#q-a
 - title: 嘤嘤嘤
   details: 嘤嘤，嘤嘤嘤
-- title: 嘤嘤嘤
-  details: 嘤嘤，嘤嘤嘤
+  link: /guide/#群号-赞助
 footer: MIT Licensed | Copyright © 2023-present Evan You
 ---
