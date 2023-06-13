@@ -10,6 +10,4 @@ actions:
     type: secondary
 footer: MIT Licensed | Copyright © 2023-present Evan You
 ---
-<div align=center>
-# [项目主页](https://github.com)
-</div>
+<center>[项目主页](https://github.com)</center>
