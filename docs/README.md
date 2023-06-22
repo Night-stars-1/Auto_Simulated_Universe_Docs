@@ -10,4 +10,4 @@ actions:
     type: secondary
 footer: MIT Licensed | Copyright © 2023-present Evan You
 ---
-## <center>[项目主页]([https://github.com/CHNZYX/Auto_Simulated_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe)) </center>
+## <center>[项目主页]([https://github.com](https://github.com/CHNZYX/Auto_Simulated_Universe)) </center>
