@@ -52,8 +52,6 @@ This software is open source, free of charge and for learning and exchange purpo
 
 ### 运行自动化
 
-人物靠近模拟宇宙（出现f键交互条）
-
 双击run.bat 或者 命令行运行 
 ```python
 python states.py
@@ -105,8 +103,6 @@ python align_angle.py
 在设置中选择自己想要的难度和命途，配队请在游戏中预先选择默认配队
 
 ### 运行自动化
-
-人物靠近模拟宇宙（出现f键交互条）
 
 点击运行
 
