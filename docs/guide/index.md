@@ -184,11 +184,11 @@ F8/‘停止’按钮停止运行。
 
 支持录制地图，具体方法为
 
-运行 python states.py --debug=2 --find=1
+运行 python states.py --debug --find=1
 
 如果遇到新图会角色停住，这时候结束自动化并且游戏中暂离模拟宇宙
 
-然后运行 python states.py --debug=2 --find=0
+然后运行 python states.py --debug --find=0
 
 运行后会自动进入地图，期间请不要移动鼠标也不要动键盘
 
@@ -203,10 +203,6 @@ imgs/maps/my_xxxxx目录下会存在target.jpg，你可以用windows自带的画
 靛蓝色：路径点 黄色：终点 绿色：交互点（问号点） 红色：怪点
 
 录制结束后可以暂离并重新运行自动化测试地图，如果通过测试，你就成功录制到了新图！
-
-录图演示可以观看视频 https://www.bilibili.com/video/BV1EV4y117Zt/
-
-<BiliVideo bvid="BV1EV4y117Zt"></BiliVideo>
 
 ----------------------------------------------------------------------------------------------
 
