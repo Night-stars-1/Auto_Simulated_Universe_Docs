@@ -30,6 +30,12 @@ This software is open source, free of charge and for learning and exchange purpo
 
 倒卖软件的行为只会让项目更加难用，如果您是受害者，请退款并差评。
 
+## 下载链接
+
+安装GUI [![](https://img.shields.io/github/downloads/CHNZYX/Auto_Simulated_Universe/total?color=66ccff)](https://github.com/CHNZYX/Auto_Simulated_Universe/releases)
+
+代码版[下载链接](https://github.com/CHNZYX/Auto_Simulated_Universe/archive/refs/heads/main.zip)
+
 ## 用法
 
 ### 运行必读
