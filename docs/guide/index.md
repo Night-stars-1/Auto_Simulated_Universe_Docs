@@ -65,7 +65,7 @@ python states.py
 
 详细参数：
 ```plaintext
-python states.py --bonus=<bonus> --debug=<debug> --speed=<speed> --find=<find>
+python states.py --bonus=<bonus> --debug=<debug> --speed=<speed> --find=<find> --nums=<nums>
 ```
 bonus in [0,1]：是否开启沉浸奖励
 
@@ -74,6 +74,8 @@ speed in [0,1]：开启速通模式
 debug in [0,1,2]：开启调试模式
 
 find in [0,1]：0为录图，1为跑图
+
+nums：指定通关次数，必须为正整数
 
 `info.yml`内容如下
 ```yaml
